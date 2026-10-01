@@ -1,0 +1,1 @@
+export const categories = ['Gamis', 'Hijab', 'Tunik', 'Outer', 'Mukena', 'Aksesoris'];
